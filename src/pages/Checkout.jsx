@@ -11,7 +11,7 @@ export default function Checkout({ cart, clearCart }) {
     if (!form.name || !form.address || !form.phone) return alert('Fill all fields!')
     alert('Order placed successfully!')
     clearCart()
-    navigate('/')
+    navigate('/track/laptop') // redirect straight to tracking page
   }
 
   return (

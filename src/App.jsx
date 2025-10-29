@@ -12,6 +12,8 @@ import Contact from './pages/Contact'
 import FAQ from './pages/FAQ'
 import NotFound from './pages/NotFound'
 import { fetchProducts } from './data/fetchProducts'
+import OrderTracking from "./pages/OrderTracking";
+
 
 export default function App() {
   const [products, setProducts] = useState([])
@@ -49,6 +51,7 @@ export default function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/faq" element={<FAQ />} />
           <Route path="*" element={<NotFound />} />
+          <Route path="/track/:productKey" element={<OrderTracking />} />
         </Routes>
       </main>
       <Footer />
