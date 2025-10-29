@@ -1,0 +1,31 @@
+[
+  {
+  "id": 1,
+  "name": "Classic Cotton Tee",
+  "category": "Clothing",
+  "price": 499,
+  "rating": 4.2,
+  "images": ["https://images.unsplash.com/photo-1581655353564-df123a1eb820?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dCUyMHNoaXJ0fGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500"],
+  "desc": "Comfortable 100% cotton tee."
+},
+  { "id": 2, "name": "Slim Fit Formal Shirt", "category": "Clothing", "price": 799, "rating": 4.1, "images": ["https://plus.unsplash.com/premium_photo-1756085509463-59d0110430ba?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHNsaW0lMjBmaXQlMjBmb3JtYWwlMjBzaGlydHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500"], "desc": "Premium slim fit shirt for office wear." },
+  { "id": 3, "name": "Running Shoes XLR", "category": "Footwear", "price": 1299, "rating": 4.0, "images": ["https://plus.unsplash.com/premium_photo-1752595826102-c2c57e8f7805?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UnVubmluZyUyMFNob2VzJTIwWExSfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500"], "desc": "Lightweight and breathable running shoes." },
+  { "id": 4, "name": "Wireless Headphones Pro", "category": "Electronics", "price": 2499, "rating": 4.6, "images": ["https://plus.unsplash.com/premium_photo-1682096475747-a744ab3f55ab?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8V2lyZWxlc3MlMjBIZWFkcGhvbmVzJTIwUHJvfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500"], "desc": "Noise cancellation headphones with long battery life." },
+  { "id": 5, "name": "Smartwatch Active", "category": "Electronics", "price": 3499, "rating": 4.3, "images": ["https://images.unsplash.com/photo-1694747660463-2d5ab46625d1?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8U21hcnR3YXRjaCUyMEFjdGl2ZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500"], "desc": "Track health metrics and notifications easily." },
+  { "id": 6, "name": "Leather Wallet", "category": "Accessories", "price": 599, "rating": 4.2, "images": ["https://plus.unsplash.com/premium_photo-1681589453747-53fd893fa420?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TGVhdGhlciUyMFdhbGxldHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500"], "desc": "Genuine leather wallet with multiple compartments." },
+  { "id": 7, "name": "Travel Backpack 30L", "category": "Bags", "price": 2299, "rating": 4.5, "images": ["https://images.unsplash.com/photo-1671764673184-740ebf2cd637?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8VHJhdmVsJTIwQmFja3BhY2slMjAzMEx8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500"], "desc": "Durable travel backpack with laptop compartment." },
+  { "id": 8, "name": "Table Lamp Modern", "category": "Home Decor", "price": 1999, "rating": 4.4, "images": ["https://media.istockphoto.com/id/1062811040/photo/stylish-table-lamp-mockup-with-black-shade-and-gold-stand-on-white-table.webp?a=1&b=1&s=612x612&w=0&k=20&c=xxNQB7-3cbWNdFtwd53H2z0hHSzGg44RAXja2LHWvYc="], "desc": "Adjustable LED table lamp for study and work." },
+  { "id": 9, "name": "Coffee Mug Ceramic", "category": "Home Decor", "price": 399, "rating": 4.0, "images": ["https://images.unsplash.com/photo-1593665530287-6a2955419954?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fENvZmZlZSUyME11ZyUyMENlcmFtaWN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500"], "desc": "Stylish ceramic coffee mug." },
+  {
+  "id": 10,
+  "name": "Office Chair Comfort",
+  "category": "Furniture",
+  "price": 2999,
+  "rating": 4.3,
+  "images": [
+    "https://plus.unsplash.com/premium_photo-1664391899883-59de759c56a8?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8b2ZmaWMlMjBjaGFpciUyMGNvbWZvcnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500",
+    "https://cdn.pixabay.com/photo/2016/10/25/12/30/chair-1770001_1280.jpg"
+  ],
+  "desc": "Ergonomic office chair with lumbar support."
+}
+]
